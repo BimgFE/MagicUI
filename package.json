@@ -1,0 +1,19 @@
+{
+  "name": "magic-ui",
+  "version": "1.0.0",
+  "description": "Mobile UI for vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BimgFE/MagicUI.git"
+  },
+  "author": "image-fe@baidu.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BimgFE/MagicUI/issues"
+  },
+  "homepage": "https://github.com/BimgFE/MagicUI#readme"
+}
